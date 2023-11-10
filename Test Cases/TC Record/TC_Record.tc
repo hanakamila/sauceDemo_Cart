@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Making sure that an item can be checked out successfully</description>
+   <name>TC_Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cd70389-e238-40af-9404-add0792fde92</testCaseGuid>
+</TestCaseEntity>
